@@ -1,0 +1,5 @@
+{
+  "MongoServerMain": "localhost/...",
+  "MongoServerAdIndex": "localhost/...",
+  "SocketRequestTimeoutMs": 600
+}

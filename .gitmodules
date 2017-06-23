@@ -1,0 +1,9 @@
+[submodule "src/github.com/jmoiron/sqlx"]
+	path = src/github.com/jmoiron/sqlx
+	url = https://github.com/jmoiron/sqlx
+[submodule "src/github.com/lib/pq"]
+	path = src/github.com/lib/pq
+	url = https://github.com/lib/pq
+[submodule "src/gopkg.in/mgo.v2"]
+	path = src/gopkg.in/mgo.v2
+	url = https://github.com/go-mgo/mgo
